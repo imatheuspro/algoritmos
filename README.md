@@ -1,2 +1,2 @@
 # algoritmos
-Projetos feitos a partir das aulas de algoritmos.
+Resoluções de listas das aulas de algoritmos.
